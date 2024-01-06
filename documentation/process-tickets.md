@@ -4,10 +4,10 @@
 Create an Entity-Relationship Diagram (ERD) for the project. The ERD will serve as a visual representation of the database schema, outlining the relationships between different entities.
 
 **Checklist:**
-- [ ] Identify the main entities in the system.
-- [ ] Define the relationships between the entities using appropriate cardinality and connectivity notation.
+- [x] Identify the main entities in the system.
+- [x] Define the relationships between the entities using appropriate cardinality and connectivity notation.
 - [ ] Ensure that the ERD captures user-related data, including authentication and resource assignment to individual users.
-- [ ] Incorporate at least one many-to-many relationship in the ERD.
+- [x] Incorporate at least one many-to-many relationship in the ERD.
 - [ ] Review and validate the ERD for accuracy and completeness.
 
 ## Ticket: Create Wireframe
@@ -16,10 +16,10 @@ Create an Entity-Relationship Diagram (ERD) for the project. The ERD will serve 
 Design comprehensive wireframes for the project to visualize the user interface and interactions within the application. The wireframes will provide a clear understanding of the user journey and guide the development process.
 
 **Checklist:**
-- [ ] Identify all the key views/pages in the application.
-- [ ] Design wireframes for each view/page, ensuring that the layout, elements, and functionality are represented.
-- [ ] Include notes or arrows on the wireframes to describe user interactions and the expected outcomes.
-- [ ] Validate the wireframes for consistency and usability.
+- [x] Identify all the key views/pages in the application.
+- [x] Design wireframes for each view/page, ensuring that the layout, elements, and functionality are represented.
+- [x] Include notes or arrows on the wireframes to describe user interactions and the expected outcomes.
+- [x] Validate the wireframes for consistency and usability.
 
 ## Ticket: Create Presentation
 
@@ -27,12 +27,12 @@ Design comprehensive wireframes for the project to visualize the user interface 
 Prepare a presentation for the proposal for the project. The presentation should communicate the chosen plan, including the project overview, features, ERD, wireframes, and implementation guidelines. Each student will have up to 5 minutes to present their proposal, and then there will be 5 minutes for questions and discussion.
 
 **Checklist:**
-- [ ] Create slides using web presentation software (e.g., Google Slides, Canva, Prezi).
-- [ ] Include an introduction to the project, emphasizing the problem it solves for customers.
-- [ ] Clearly articulate the proposed solution to the problem, highlighting the key features and functionalities.
-- [ ] Incorporate the ERD image and provide a brief explanation of the database structure.
-- [ ] Include wireframe images for each view/page and describe the user interactions.
-- [ ] Link the created project board in the presentation.
+- [x] Create slides using web presentation software (e.g., Google Slides, Canva, Prezi).
+- [x] Include an introduction to the project, emphasizing the problem it solves for customers.
+- [x] Clearly articulate the proposed solution to the problem, highlighting the key features and functionalities.
+- [x] Incorporate the ERD image and provide a brief explanation of the database structure.
+- [x] Include wireframe images for each view/page and describe the user interactions.
+- [x] Link the created project board in the presentation.
 - [ ] Practice the presentation to ensure it fits within the allotted time (5 minutes) and conveys the proposed plan effectively.
 
 By completing this ticket, you will have created a compelling presentation that showcases the proposal and effectively communicates the chosen plan to the audience.
@@ -43,9 +43,9 @@ By completing this ticket, you will have created a compelling presentation that 
 Set up a project board to track the progress of the project. The project board will help organize tasks, assign responsibilities, and monitor the completion of different project components. Additionally, add the MVP tickets to the project board.
 
 **Checklist:**
-- [ ] Create a new project board using GitHub's project management feature.
-- [ ] Define columns for different project phases or task statuses (e.g., To Do, In Progress, Done).
-- [ ] Add the MVP tickets to the project board, representing the core functionalities.
+- [x] Create a new project board using GitHub's project management feature.
+- [x] Define columns for different project phases or task statuses (e.g., To Do, In Progress, Done).
+- [x] Add the MVP tickets to the project board, representing the core functionalities.
 - [ ] Regularly update the project board, moving cards across columns as tasks progress.
 
 By completing this ticket, you will have a well-organized project board that reflects the project's progress, including the incorporation of the MVP tickets.
@@ -56,7 +56,7 @@ By completing this ticket, you will have a well-organized project board that ref
 Identify the minimum viable product (MVP) features for the project. The MVP represents the core functionalities required to deliver value to users and meet the client's initial requirements. Move the tickets to the project board you created.
 
 **Checklist:**
-- [ ] Review the client's feature requirements and prioritize them based on importance and feasibility.
+- [x] Review the client's feature requirements and prioritize them based on importance and feasibility.
 - [ ] Select the essential features that will form the foundation of the initial product release.
 - [ ] Move the corresponding tickets to the project board, assigning them to appropriate columns or task statuses.
 
