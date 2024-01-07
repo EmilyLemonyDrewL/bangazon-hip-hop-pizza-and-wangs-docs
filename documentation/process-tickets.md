@@ -6,9 +6,9 @@ Create an Entity-Relationship Diagram (ERD) for the project. The ERD will serve 
 **Checklist:**
 - [x] Identify the main entities in the system.
 - [x] Define the relationships between the entities using appropriate cardinality and connectivity notation.
-- [ ] Ensure that the ERD captures user-related data, including authentication and resource assignment to individual users.
+- [x] Ensure that the ERD captures user-related data, including authentication and resource assignment to individual users.
 - [x] Incorporate at least one many-to-many relationship in the ERD.
-- [ ] Review and validate the ERD for accuracy and completeness.
+- [x] Review and validate the ERD for accuracy and completeness.
 
 ## Ticket: Create Wireframe
 
@@ -33,7 +33,7 @@ Prepare a presentation for the proposal for the project. The presentation should
 - [x] Incorporate the ERD image and provide a brief explanation of the database structure.
 - [x] Include wireframe images for each view/page and describe the user interactions.
 - [x] Link the created project board in the presentation.
-- [ ] Practice the presentation to ensure it fits within the allotted time (5 minutes) and conveys the proposed plan effectively.
+- [x] Practice the presentation to ensure it fits within the allotted time (5 minutes) and conveys the proposed plan effectively.
 
 By completing this ticket, you will have created a compelling presentation that showcases the proposal and effectively communicates the chosen plan to the audience.
 
@@ -46,7 +46,7 @@ Set up a project board to track the progress of the project. The project board w
 - [x] Create a new project board using GitHub's project management feature.
 - [x] Define columns for different project phases or task statuses (e.g., To Do, In Progress, Done).
 - [x] Add the MVP tickets to the project board, representing the core functionalities.
-- [ ] Regularly update the project board, moving cards across columns as tasks progress.
+- [x] Regularly update the project board, moving cards across columns as tasks progress.
 
 By completing this ticket, you will have a well-organized project board that reflects the project's progress, including the incorporation of the MVP tickets.
 
@@ -57,8 +57,8 @@ Identify the minimum viable product (MVP) features for the project. The MVP repr
 
 **Checklist:**
 - [x] Review the client's feature requirements and prioritize them based on importance and feasibility.
-- [ ] Select the essential features that will form the foundation of the initial product release.
-- [ ] Move the corresponding tickets to the project board, assigning them to appropriate columns or task statuses.
+- [x] Select the essential features that will form the foundation of the initial product release.
+- [x] Move the corresponding tickets to the project board, assigning them to appropriate columns or task statuses.
 
 By completing this ticket, you will have defined the MVP features for the project and ensured that they are reflected on the project board.
 
